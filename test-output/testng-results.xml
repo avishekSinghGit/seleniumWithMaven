@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62" started-at="2021-01-18T09:00:44Z" finished-at="2021-01-18T09:00:44Z">
+  <suite name="Default suite" duration-ms="53" started-at="2021-01-18T12:32:00Z" finished-at="2021-01-18T12:32:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62" started-at="2021-01-18T09:00:44Z" finished-at="2021-01-18T09:00:44Z">
+    <test name="Default test" duration-ms="53" started-at="2021-01-18T12:32:00Z" finished-at="2021-01-18T12:32:00Z">
       <class name="seleniumWithMavenSource.MavenFirstClass">
-        <test-method status="PASS" signature="printMethod()[pri:0, instance:seleniumWithMavenSource.MavenFirstClass@482cd91f]" name="printMethod" duration-ms="15" started-at="2021-01-18T09:00:44Z" finished-at="2021-01-18T09:00:44Z">
+        <test-method status="PASS" signature="printMethod()[pri:0, instance:seleniumWithMavenSource.MavenFirstClass@482cd91f]" name="printMethod" duration-ms="18" started-at="2021-01-18T12:32:00Z" finished-at="2021-01-18T12:32:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printMethod -->
-        <test-method status="PASS" signature="printMethod1()[pri:0, instance:seleniumWithMavenSource.MavenFirstClass@482cd91f]" name="printMethod1" duration-ms="2" started-at="2021-01-18T09:00:44Z" finished-at="2021-01-18T09:00:44Z">
+        <test-method status="PASS" signature="printMethod1()[pri:0, instance:seleniumWithMavenSource.MavenFirstClass@482cd91f]" name="printMethod1" duration-ms="2" started-at="2021-01-18T12:32:00Z" finished-at="2021-01-18T12:32:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printMethod1 -->
